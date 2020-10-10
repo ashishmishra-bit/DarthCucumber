@@ -1,12 +1,13 @@
 <p align="left">
+
   <a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>
  
  <hr />
-
-<h3>👋 I am Souvik <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+<h3>👋 I am Souvik</h3>
 Currently pursuing Btech in **Information Technology**
 
+<br /><br />
 <table>
   <tr>
     <td valign="top">
