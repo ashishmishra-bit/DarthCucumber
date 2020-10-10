@@ -3,11 +3,10 @@
   <a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>
  
  <hr />
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 <h3>👋 I am Souvik</h3>
-Currently pursuing Btech in **Information Technology**
 
-<br /><br />
+Currently pursuing Btech in <em>Information Technology</em>
+
 <table>
   <tr>
     <td valign="top">
@@ -45,6 +44,9 @@ After contributing to few Open Source projects I realised that I am *language fl
 ## 🌡️ STATS
 
 ![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=DarthCucumber&hide=["issues"]&show_icons=true)
+
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+
 
 </p>
            
