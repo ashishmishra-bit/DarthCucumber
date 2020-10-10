@@ -1,14 +1,3 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    :wave: Hey! Welcome to my profile
-    <br>I am Souvik, an IT engineering student who loves
-      <br><em>learning new things</em> and create cool stuff from it,
-      <br>and yeah I smash keyboard :keyboard:
-    <br>
-    <img align="center" src="https://media.giphy.com/media/Htm1HWab2kmXv8ZYVg/giphy.gif" />
-    <br><br>:bulb: Well my stats aren't impressive 😅<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarthCucumber&&show_icons=true&&theme=tokyonight" />
-  </samp>
+  <a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>
 </p>
