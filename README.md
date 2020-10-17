@@ -12,12 +12,11 @@ Currently pursuing Btech in <em>Information Technology</em>
     <td valign="top">
       <h3>🧰 SKILLS: </h3>
       <h6>⚙️&emsp;C/C++</h6>
+      <h6>⚙️&emsp;HTML</h6>
+      <h6>⚙️&emsp;CSS</h6>
+      <h6>⚙️&emsp;JS</h6>
       <h6>⚙️&emsp;MERN stack</h6>
       <h6>⚙️&emsp;Go lang</h6>
-      <h6>⚙️&emsp;Ruby on Rails</h6>
-      <h6>⚙️&emsp;PHP</h6>
-      <h6>⚙️&emsp;Python</h6>
-      <h6>⚙️&emsp;Bash</h6>
       <h6>⚙️&emsp;Git</h6>
      </td>
     <td valign="top">
