@@ -1,11 +1,11 @@
 <p align="left">
 
   <a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>
- 
  <hr />
 <h3>👋 I am Souvik</h3>
 
 Currently pursuing Btech in <em>Information Technology</em>
+
 
 <table>
   <tr>
@@ -36,13 +36,14 @@ Currently pursuing Btech in <em>Information Technology</em>
   </tr>
 </table>
 
+
 ## 🤩 INTERESTS
 
 After contributing to few Open Source projects I realised that I am *language fluid* and I easily get adapted to any tech stacks without having any prior experience. Still exploring different fields but Web Technologies always fascinated me because of it's **plug n play** philosophy. Also having a slight incline towards  Cyber Security (as I love solving puzzles and scream when I'm frustrated) that's why sometimes I try my hands on CFTs 😅.
 
 ## 🌡️ STATS
 
-![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=DarthCucumber&hide=["issues"]&show_icons=true)
+![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=DarthCucumber&show_icons=true&theme=gradient)
 
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
