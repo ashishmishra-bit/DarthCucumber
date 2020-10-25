@@ -9,7 +9,7 @@ Currently pursuing Btech in <em>Information Technology</em>
 
 <table>
   <tr>
-    <td valign="top">
+<!--     <td valign="top">
       <h3>🧰 SKILLS: </h3>
       <h6>⚙️&emsp;C/C++</h6>
       <h6>⚙️&emsp;HTML</h6>
@@ -18,7 +18,7 @@ Currently pursuing Btech in <em>Information Technology</em>
       <h6>⚙️&emsp;MERN stack</h6>
       <h6>⚙️&emsp;Go lang</h6>
       <h6>⚙️&emsp;Git</h6>
-     </td>
+     </td> -->
     <td valign="top">
       <h3>👨‍💻 PROJECTS: </h3>
       <h6>📒&emsp;Steganography Tool [ <a href="https://github.com/DarthCucumber/stegano">repo</a>, <a href="https://darthcucumber.github.io/stegano/">website</a> ]</h6>
