@@ -48,6 +48,7 @@ After contributing to few Open Source projects I realised that I am *language fl
 
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
+![](https://komarev.com/ghpvc/?username=DarthCucumber&style=plastic)
 
 </p>
            
