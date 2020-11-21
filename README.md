@@ -26,6 +26,7 @@ Currently pursuing Btech in <em>Information Technology</em>
       <h6>📘&emsp;Weird qr [ <a href="https://github.com/DarthCucumber/weird-qr">repo</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/weird-qr/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">firefox addon</a> ]</h6>
       <h6>📕&emsp;Eyes-on  [ <a href="https://github.com/DarthCucumber/eyeson">repo</a>] (in progress)</h6>
       <h6>📕&emsp;Console Print  [ <a href="https://github.com/DarthCucumber/console-print">repo</a>] (abandoned this project 😅)</h6>
+      <h6>📘&emsp;theGeekBot [ <a href="https://github.com/DarthCucumber/theGeekBot">repo</a>]</h6>
       <h6>more on the way SOON™</h6>
     </td>
     <td valign="top">
