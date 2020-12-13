@@ -17,6 +17,7 @@ Currently pursuing Btech in <em>Information Technology</em>
       <h6>📕&emsp;Eyes-on  [ <a href="https://github.com/DarthCucumber/eyeson">repo</a>] (in progress)</h6>
       <h6>📘&emsp;theGeekBot [ <a href="https://github.com/GFG-CLUB-KIIT/thegeekbot">repo</a>]</h6>
       <h6>📗&emsp;term-parse [ <a href="https://github.com/DarthCucumber/termparse">repo</a> ]</h6>
+      <h6>📗&emsp;web-SS [ <a href="https://github.com/DarthCucumber/web-SS">repo</a> ]</h6>
       <h6>more on the way SOON™</h6>
     </td>
     <td valign="top">
