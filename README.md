@@ -29,6 +29,9 @@ Currently pursuing Btech in <em>Information Technology</em>
   </tr>
 </table>
 
+I have also written a few scripts and Tools for my needs which may come in handy  for others. 
+These can be found <a href="https://github.com/DarthCucumber/Tools">here</a>
+
 
 ## 🤩 INTERESTS
 
