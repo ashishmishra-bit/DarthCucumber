@@ -14,9 +14,9 @@ Currently pursuing Btech in <em>Information Technology</em>
       <h6>📒&emsp;Steganography Tool [ <a href="https://github.com/DarthCucumber/stegano">repo</a>, <a href="https://darthcucumber.github.io/stegano/">website</a> ]</h6>
       <h6>📗&emsp;Live expression dev tool [ <a href="https://github.com/DarthCucumber/live-expression-devloper-tool">repo</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/live-expression-devloper-tool/">firefox addon</a> ]</h6>
       <h6>📘&emsp;Weird qr [ <a href="https://github.com/DarthCucumber/weird-qr">repo</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/weird-qr/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">firefox addon</a> ]</h6>
-      <h6>📕&emsp;Eyes-on  [ <a href="https://github.com/DarthCucumber/node-eyeson">repo</a>]</h6>
+      <h6>📕&emsp;Eyes-on  [ <a href="https://github.com/DarthCucumber/node-eyeson">repo</a>, <a href="https://www.npmjs.com/package/@darthcucumber/eyes-on">npm</a>]</h6>
       <h6>📘&emsp;theGeekBot [ <a href="https://github.com/GFG-CLUB-KIIT/thegeekbot">repo</a>]</h6>
-      <h6>📗&emsp;term-parse [ <a href="https://github.com/DarthCucumber/termparse">repo</a> ]</h6>
+      <h6>📗&emsp;term-parse [ <a href="https://github.com/DarthCucumber/termparse">repo</a>, <a href="https://www.npmjs.com/package/termparse">npm</a>]</h6>
       <h6>📒&emsp;web-SS [ <a href="https://github.com/DarthCucumber/web-SS">repo</a> ]</h6>
       <h6>more on the way SOON™</h6>
     </td>
