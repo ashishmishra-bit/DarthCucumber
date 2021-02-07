@@ -52,6 +52,9 @@ After contributing to few Open Source projects I realised that I am *language fl
 &nbsp; <a href="https://www.instagram.com/souvikinator/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/souvik-kar-mahapatra-b7652b1b7/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:souvikat001@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://dev.to/souvikinator">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Souvik Kar Mahapatra's DEV Community Profile" height="50" width="50">
+</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=DarthCucumber&style=plastic)
