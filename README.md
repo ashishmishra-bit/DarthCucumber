@@ -37,7 +37,7 @@ These can be found <a href="https://github.com/DarthCucumber/Tools">here</a>, wi
 
 ## 🤩 INTERESTS
 
-After contributing to few Open Source projects I realised that I am *language fluid* and I get adapted to any tech stacks without having any prior experience. Still exploring different fields but Web Technologies always fascinated me because of it's **plug n play** philosophy. Also having a slight incline towards  Cyber Security (as I love solving puzzles and scream when I'm frustrated) that's why sometimes I try my hands on CFTs 😅. Also I like implementing things from scratch, helps me understand the underhood functioning of a tool or a library.
+After contributing to few Open Source projects I realised that I am *language fluid* and I get adapted to any tech stacks. Still exploring different fields but Web Technologies always fascinated me because of it's **plug n play** philosophy. Inclined towards Cyber Security (as I love solving puzzles and scream when I'm frustrated). Also I like implementing things from scratch, helps me understand the underhood functioning of a tool or a library.
 
 ## 🌡️ STATS
 
