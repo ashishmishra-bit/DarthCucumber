@@ -1,6 +1,7 @@
 <p align="left">
 
-  <a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>
+  <!--<a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>-->
+  [![s3CMUMOB.gif](https://i.postimg.cc/6QgSjcDb/s3CMUMOB.gif)](https://postimg.cc/DWQBmrf1)
  <hr />
 <h3>👋 I am Souvik</h3>
 
