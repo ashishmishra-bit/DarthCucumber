@@ -41,7 +41,7 @@ After contributing to few Open Source projects I realised that I am *language fl
 
 ## 🌡️ STATS
 
-![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=DarthCucumber&show_icons=true&theme=gradient)
+![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=DarthCucumber&show_icons=true&theme=chartreuse-dark)
 
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
