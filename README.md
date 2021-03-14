@@ -8,38 +8,29 @@
 Currently pursuing Btech in <em>Information Technology</em>
 
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>👨‍💻 PROJECTS: </h3>
-      <h6>📒&emsp;Steganography Tool [ <a href="https://github.com/DarthCucumber/stegano">repo</a>, <a href="https://darthcucumber.github.io/stegano/">website</a> ]</h6>
-      <h6>📗&emsp;Live expression dev tool [ <a href="https://github.com/DarthCucumber/live-expression-devloper-tool">repo</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/live-expression-devloper-tool/">firefox addon</a> ]</h6>
-      <h6>📘&emsp;Weird qr [ <a href="https://github.com/DarthCucumber/weird-qr">repo</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/weird-qr/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search">firefox addon</a> ]</h6>
-      <h6>📕&emsp;Eyes-on  [ <a href="https://github.com/DarthCucumber/node-eyeson">repo</a>, <a href="https://www.npmjs.com/package/@darthcucumber/eyes-on">npm</a>]</h6>
-      <h6>📘&emsp;theGeekBot [ <a href="https://github.com/GFG-CLUB-KIIT/thegeekbot">repo</a>]</h6>
-      <h6>📗&emsp;term-parse [ <a href="https://github.com/DarthCucumber/termparse">repo</a>, <a href="https://www.npmjs.com/package/termparse">npm</a>]</h6>
-      <h6>📒&emsp;web-SS [ <a href="https://github.com/DarthCucumber/web-SS">repo</a> ]</h6>
-      <h6>📕&emsp;Tools [ <a href="https://github.com/DarthCucumber/Tools">repo</a>]</h6>
-      <h6>📗&emsp;unwee [ <a href="https://github.com/DarthCucumber/unwee">repo</a>]</h6>
-      <h6>more on the way SOON™</h6>
-    </td>
-    <td valign="top">
-      <h3>💁‍♂️ CONTRIBUTIONS: </h3>
-      <h6>◼️&emsp;<a href="https://github.com/treeverse/lakeFS">lakeFS</a></h6>
-      <h6>◼️&emsp;<a href="https://github.com/iot-lab-kiit">iot-labs</a></h6>
-      <h6>◼️&emsp;<a href="https://github.com/CircuitVerse">CircuitVerse</a></h6>
-    </td>
-  </tr>
-</table>
-
-I have also written a few scripts and Tools for my needs which may come in handy for others. 
-
-These can be found <a href="https://github.com/DarthCucumber/Tools">here</a>, will be adding more ;)
-
-
 ## 🤩 INTERESTS
 
 After contributing to few Open Source projects I realised that I am *language fluid* and I get adapted to any tech stacks. Still exploring different fields but Web Technologies always fascinated me because of it's **plug n play** philosophy. Inclined towards Cyber Security (as I love solving puzzles and scream when I'm frustrated). Also I like implementing things from scratch, helps me understand the underhood functioning of a tool or a library.
+
+## 👨‍💻 WORKS
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=unwee" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=stegano" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=live-expression-devloper-tool" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=weird-qr" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=node-eyeson" />
+    </td>
+   <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=thegeekbot" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=termparse" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=web-SS" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=Tools" />
+    </td>
+  </tr>
+</table>
 
 ## 🌡️ STATS
 
