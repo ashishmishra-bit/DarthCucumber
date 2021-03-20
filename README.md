@@ -1,8 +1,9 @@
-  <!--<a href="https://imgur.com/ELyfJUW"><img src="https://i.imgur.com/ELyfJUW.gif" title="source: imgur.com" /></a>-->
-  [![s3CMUMOB.gif](https://i.postimg.cc/6QgSjcDb/s3CMUMOB.gif)](https://postimg.cc/DWQBmrf1)
- <hr />
+<p align="center">
+  <img src="https://i.postimg.cc/6QgSjcDb/s3CMUMOB.gif"/>
+</p>
+<hr />
 
-<h2 align="center"> 👋 Welcome to my Github! I like Web 👨‍💻 and I'm exploring Cyber Security 🕵️‍♂️ </h2>
+<h2 align="center"> 👋 Welcome! I like Web 👨‍💻 and I'm exploring Cyber Security 🕵️‍♂️ </h2>
 
 <p align="center">
 <!--   <img width="250" src="https://media.giphy.com/media/mBqQdEeTakrKCRgypN/giphy.gif"> -->
@@ -34,17 +35,18 @@ Check out my repos ⬇️
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=unwee" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=stegano" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=live-expression-devloper-tool" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=weird-qr" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=node-eyeson" />
+      <a href="http://github.com/DarthCucumber/unwee"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=unwee" /></a>
+      <a href="http://github.com/DarthCucumber/stegano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=stegano" />
+      <a href="http://github.com/DarthCucumber/live-expression-devloper-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=live-expression-devloper-tool" />
+      <a href="http://github.com/DarthCucumber/weird-qr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=weird-qr" />
+      <a href="http://github.com/DarthCucumber/node-eyeson"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=node-eyeson" />
     </td>
    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=thegeekbot" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=termparse" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=web-SS" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=Tools" />
+      <a href="http://github.com/DarthCucumber/gofuzz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=gofuzz" />
+      <a href="http://github.com/DarthCucumber/thegeekbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=thegeekbot" />
+      <a href="http://github.com/DarthCucumber/termparse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=termparse" />
+      <a href="http://github.com/DarthCucumber/web-SS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=web-SS" />
+      <a href="http://github.com/DarthCucumber/Tools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthCucumber&repo=Tools" />
     </td>
   </tr>
 </table>
